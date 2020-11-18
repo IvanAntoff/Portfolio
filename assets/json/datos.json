@@ -1,0 +1,114 @@
+{
+    "Trabajos": [{
+        "Titulo": "Developer JS/HTML5",
+        "Miniatura": "./assets/images/cards/small-tourfcyt.png",
+        "Tags":[
+            "Empresa: FCyT UADER (CDU)",
+            "Desde: 2020-06",
+            "Hasta: 2020-07"],
+        "DescripCorta": "Creacion de Tour virtual por las instalaciones de FCyT UADER",
+        "Descripcion": "Creacion de Tour virtual por las instalaciones de FCyT UADER. El proyecto se ideo, planifico y desarrollo desde 0 en 4 semanas, fui encargado del diseño, desarrollo, deploy y edicion tanto de la web como del contenido multimedia.",
+        "Enlace":"https://tourfcytuader.com/"
+    },{
+        "Titulo": "Tech Assistant",
+        "Miniatura": "./assets/images/cards/small-tourfcyt.png",
+        "Tags": 
+            ["Empresa: PietroMedia",
+            "Desde: 2020-02",
+            "Hasta: 2020-03"],
+        "DescripCorta": "Implementar una web app capas de capturar, filtra y transmitir en directo publicaciones de FB, TW e IG.",
+        "Descripcion": "Implementar una web app capas de capturar, filtra y transmitir en directo los comentarios de los televidentes en directo. Así mismo también fue mi labor filtrar y lanzar en vivo todos los comentarios y coopere con la instalación de los equipos de cámaras y transmisión.",
+        "Enlace":"https://www.youtube.com/watch?v=AlIi7D_lfx0"
+    },{
+        "Titulo": "Docente y capacitador",
+        "Miniatura": "./assets/images/cards/small-tourfcyt.png",
+        "Tags": [
+            "Empresa: Instituto Martin Fierro",
+            "Desde: 2019",
+            "Hasta: Actualidad"],
+        "DescripCorta": "Docente de Informatica para alumnos de nivel secundario y capacitador del personal.",
+        "Descripcion": "Docente de Informatica para alumnos de nivel secundario. Así como también encargarme de generar documentación, guiás, charlas y demás contenidos para capacitación docente y del personal administrativo.",
+        "Enlace":"Nope"
+    },{
+        "Titulo": "WebMaster WordPress",
+        "Miniatura": "./assets/images/cards/small-tourfcyt.png",
+        "Tags": [
+            "Empresa: INFOCDELU.COM",
+            "Desde: 2018",
+            "Hasta: 2020"],
+        "DescripCorta": "WebMaster de un sitio Wordpress.",
+        "Descripcion": "Nope",
+        "Enlace":"https://infocdelu.com.ar/"
+    },{
+        "Titulo": "Servicio tecnico",
+        "Miniatura": "./assets/images/cards/small-tourfcyt.png",
+        "Tags":[ 
+            "Empresa: Radio 10 CDU",
+            "Desde: 2018",
+            "Hasta: 2020"],
+        "DescripCorta": "Diagnostico y reparacion, mantenimiento, mejoras/implementacion de infraestructura y redes.",
+        "Descripcion": "Nope",
+        "Enlace":"https://infocdelu.com.ar/"
+    },{
+        "Titulo": "Desarrollador PWA",
+        "Miniatura":"",
+        "Tags":[ 
+            "Empresa:FCyT UADER (CDU)",
+            "Desde: 2019-10",
+            "Hasta: 2019-10"],
+        "DescripCorta": "Desarrollo de PWA que permita observar un cronograma y enviar notificaciones push.",
+        "Descripcion": "Tuve la labor de desarrollar y lanzar en menos de 5 días una aplicación que permitiera al usuario presenciar cuales eran las próximas presentaciones de la universidad durante un evento, ademas debía contar con la posibilidad de enviar push notifications.",
+        "Enlace":"https://anuncios-fcyt.firebaseapp.com/"
+    },{
+        "Titulo": "Tech Assistant",
+        "Miniatura": "./assets/images/cards/small-tourfcyt.png",
+        "Tags":[
+            "Empresa: PietroMedia",
+            "Desde: 2019-01",
+            "Hasta: 2019-01"],
+        "DescripCorta": "Implementar una web app capas de capturar, filtra y transmitir en directo publicaciones de FB, TW e IG.",
+        "Descripcion": "Implementar una web app capas de capturar, filtra y transmitir en directo los comentarios de los televidentes en directo durante la Fiesta De La Playa De Rio. Así mismo también fue mi labor filtrar y lanzar en vivo todos los comentarios y coopere con la instalación de los equipos de cámaras y transmisión.",
+        "Enlace":""
+    }],
+    "Devs":[{
+        "Titulo": "",
+        "Miniatura":"",
+        "Tecnologias": ["",""],
+        "Descripcion": "",
+        "Enlace": ""
+    }
+    ],
+    "Pitchings":[{
+        "Titulo":"",
+        "Miniatura":"",
+        "Año": "",
+        "Lugar": ""
+    }
+    ],
+    "Hobies": [{
+        "Titulo":"",
+        "Miniatura":"",
+        "Fecha":"",
+        "Descripcion":""
+    }],
+    "Publicaciones": [{
+        "Tipo":[{
+            "videos":[{
+                "Miniatura":"",
+                "Titulo":"",
+                "Descripcion":"",
+                "Enlace": ""}],
+            "Documentos":[
+                {
+                    "Miniatura":"",
+                    "Titulo":"",
+                    "Descripcion":"",
+                    "Enlace": ""
+                }
+            ],
+            "Imagenes":[{
+                "Titulo":""
+            }]
+        }]
+    }]
+}

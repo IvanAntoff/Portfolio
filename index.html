@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="/assets/css/style.css">
+        <title>Ivan Antoff</title>
+    </head>
+    <body>
+        <main>
+            <header id="header">
+
+            </header>
+            <div id="content">
+                <nav id="main--navBar">
+                    <div id="options" class="shadow-bottom">
+                        <label for="colorMode" class="margin-left">
+                            <i class="material-icons" style="color: #424242">brightness_2</i>
+                            <label class="switch">
+                                <input type="checkbox">
+                                <span class="slider round"></span>
+                            </label>                            
+                            <i class="material-icons" style="color: #eed602">brightness_5</i>
+                        </label>
+                        <label class="margin-right">
+                            <span>ES/EN</span>
+                        </label>
+                        <label id="hidde-menu" class="margin-right" onclick="hiddeCards()">
+                            <span>X</span>
+                        </label>
+                    </div>
+                    <div id="main--menu">
+                        <a onclick="showCards('Trabajos')" ontouch="showCards('Trabajos')" class="text-big-size text-white">Trabajos - proyectos</a>
+                        <a onclick="showCards()" ontouch="showCards()" class="text-normal-size text-white">Desarrollos - Codigos</a>
+                        <a onclick="showCards()" ontouch="showCards()" class="text-big-size text-white">Presentaciones</a>
+                        <a onclick="showCards()" ontouch="showCards()" class="text-big-size text-white">Hobbies - Eventos</a>
+                        <a onclick="showCards()" ontouch="showCards()" class="text-normal-size text-white">Diseños & Publicacioens</a>
+                        <div class="inline-flex">
+                            <a onclick="showCards()" ontouch="showCards()" class="text-small-size text-white">Videos </a>
+                            <a onclick="showCards()" ontouch="showCards()" class="text-small-size text-white">- Documentos -</a>
+                            <a onclick="showCards()" ontouch="showCards()" class="text-small-size text-white"> Imagenes</a>
+                        </div>
+                    </div>
+                </nav>
+                <div id="cards--view">
+                    <div id="cards--view-row--one" class="cards--view-row  scrollbars-hidden">
+                    </div>
+                    <div id="cards--view-row--two" class="cards--view-row scrollbars-hidden">
+                    </div>
+                    <div id="cards--view-row--three" class="cards--view-row scrollbars-hidden">
+                    </div>
+                </div>
+            </div>
+        </main>
+        <script src="/assets/js/jsonScripts.js"></script>
+        <script src="/assets/js/visualScripts.js"></script>
+        <script src="/assets/js/cardsScripts.js"></script>
+        <script src="/assets/js/bigPicScripts.js"></script>
+    </body>
+</html>
